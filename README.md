@@ -7,5 +7,7 @@ The dataset for this competition (both train and test) was generated from a deep
 Files
 
 train.csv - the training dataset; loan_status is the binary target
+
 test.csv - the test dataset; your objective is to predict probability of the target loan_status for each row
+
 sample_submission.csv - a sample submission file in the correct format
